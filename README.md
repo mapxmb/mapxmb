@@ -1,9 +1,9 @@
 # <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Maira%20Marczewski&fontSize=45&fontAlign=50&fontAlignY=45&fontColor=FF69B4" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Mai%20Marczewski&fontSize=45&fontAlign=50&fontAlignY=45&fontColor=FF69B4" />
 </p>
 
 <p align="center">
-  <font face="Georgia"><i>Innovation Head | Fullstack Enthusiast | BJJ Practitioner</i></font>
+  <font face="Georgia" size="4"><i>Innovation Head | Fullstack Enthusiast | BJJ Practitioner</i></font>
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Black%20Heart.png" width="25" /> Sobre Mim
+## <p align="center"><font face="Georgia" color="#FF69B4">About Me</font></p>
 
 <font face="Georgia">
 
-Atualmente ocupo o cargo de **Head de Inovação**, onde foco em liderança estratégica e no desenvolvimento de soluções que movem o ponteiro. Sou uma entusiasta da cultura **Fullstack**, em constante evolução para dominar cada camada do ciclo de desenvolvimento.
+Atualmente ocupo o cargo de **Head de Inovação**, focando em liderança estratégica e no desenvolvimento de soluções de alto impacto. Sou uma entusiasta da cultura **Fullstack**, em constante evolução para dominar cada camada do ciclo de desenvolvimento.
 
 Minha filosofia de trabalho é guiada pela curiosidade nata: ainda não sou expert, mas aprendo e executo com a precisão de quem busca a excelência.
 
@@ -30,14 +30,13 @@ Minha filosofia de trabalho é guiada pela curiosidade nata: ainda não sou expe
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> Tech Stack & Tools
+## <p align="center"><font face="Georgia" color="#FF69B4">Tech Stack</font></p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=FF69B4" />
   <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=FF69B4" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=FF69B4" />
   <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=FF69B4" />
-  <br>
   <img src="https://img.shields.io/badge/Apex-000000?style=flat-square&logo=salesforce&logoColor=FF69B4" />
   <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=FF69B4" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=FF69B4" />
